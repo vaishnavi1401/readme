@@ -80,11 +80,11 @@ Getting Started:
 
 [Java 8](https://www.oracle.com/java/technologies/downloads/)
 
-[Mysql{.ul}](https://www.mysql.com/downloads/)
+[Mysql](https://www.mysql.com/downloads/)
 
-Installation:
+## Installation:
 
--   [Creating Database]{.ul}
+### Creating Database
 
 Step 1:
 
@@ -99,17 +99,17 @@ Step 3:
 Execute the commands mentioned in the link to setup the database with
 tables:
 
-[DataBase {.ul}](https://docs.google.com/document/d/1PBZghdAOYe4YpV59qCA5nFp78hdijFdL0WLj2TBO0ac/edit)
+[DataBase ](https://docs.google.com/document/d/1PBZghdAOYe4YpV59qCA5nFp78hdijFdL0WLj2TBO0ac/edit)
 
 or by commands mentioned in repo .\Reconnect\DDL
 
--   [Importing the project and execution.]{.ul}
+### Importing the project and execution.
 
 Step 1:
 
 Clone the repository :
 
-[[https://github.com/vaishnavi1401/Divide-n-ConquErors.git]{.ul}](https://github.com/vaishnavi1401/Divide-n-ConquErors.git)
+[[https://github.com/vaishnavi1401/Divide-n-ConquErors.git]](https://github.com/vaishnavi1401/Divide-n-ConquErors.git)
 
 Step 2:
 
@@ -132,7 +132,7 @@ Step 5:
 
 Run the Project on your Tomcat Server
 
--   [Some Application Snippets]{.ul}
+## Some Application Snippets
 
 #### Landing Page:
 
