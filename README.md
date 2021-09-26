@@ -1,7 +1,6 @@
 # Reconnect
 
-![](./images/media/image5.jpg width="6.5in"
-height="3.2222222222222223in")
+![](./images/media/image5.jpg )
 
 ## About the application:
 
@@ -137,20 +136,16 @@ Run the Project on your Tomcat Server
 
 #### Landing Page:
 
-![](./images/media/image2.jpg width="6.5in"
-height="3.2222222222222223in")
+![](./images/media/image2.jpg )
 
 #### Login Page:
 
-![](./images/media/image4.png)(width="6.5in"
-height="4.277777777777778in")
+![](./images/media/image4.png)
 
 #### Admin :
 
-![](./images/media/image3.png)(width="6.5in"
-height="3.4583333333333335in")
+![](./images/media/image3.png)
 
 #### User :
 
-![](./images/media/image1.png)(width="6.5in"
-height="4.291666666666667in")
+![](./images/media/image1.png)
